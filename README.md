@@ -1,2 +1,2 @@
 # demo
-Its just a demo repo !!!.
+Its just a demo repo !!!
